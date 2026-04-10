@@ -5,9 +5,8 @@ seaborn
 scikit-learn
 tensorflow
 keras
-keras-hub
-keras-nlp
-scikeras
+keras-hub==0.21.1
+keras-nlp==0.21.1
 dmba
 graphviz
 jupyter
