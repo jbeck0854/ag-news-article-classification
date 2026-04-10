@@ -40,6 +40,9 @@ ag-news-text-classification/
 │   ├── 01_tfidf_models_and_ngram_rankings.ipynb
 │   ├── 02_rnn_model.ipynb
 │   └── 03_transformer_model.ipynb
+├── presentations/
+│   ├── slides.pdf
+│   └── slides.pptx
 ├── reports/
 │   └── final_report.pdf
 ├── README.md
