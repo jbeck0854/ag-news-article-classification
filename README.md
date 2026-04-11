@@ -15,7 +15,7 @@ The objective is not just to maximize accuracy, but to determine the **best trad
 | LSTM (RNN)                    | ~91–93%     | Slight improvement, higher complexity |
 | RoBERTa Transformer           | ~94%        | Best performance, highest computational cost |
 
-> Key takeaway: **Logistic Regression with TF-IDF provides the best practical tradeoff**, while Transformers offer marginal gains at significantly higher cost :contentReference[oaicite:0]{index=0}
+> Key takeaway: **Logistic Regression with TF-IDF provides the best practical tradeoff**, while Transformers offer marginal gains at significantly higher cost.
 
 ---
 
